@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore data files
+*.csv
+*.xlsx
+*.json
+*.db
+data/
+
+# Ignore output folders
+output/
+results/
+plots/
