@@ -27,6 +27,13 @@ venv/
 *.db
 data/
 
+# Geopandas data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
 # Ignore output folders
 output/
 results/
